@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python and TypeScript
 - 👯 I’m looking to collaborate on:
   - API for Web WhatsApp RPA
-  - Integrations for AirOS/Ubiquity
+  - Integrations for AirOS/Ubiquiti
   - Integrations for RouterOS/Mikrotik
   - Asterisk
 <!--
