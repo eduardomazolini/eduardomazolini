@@ -5,16 +5,16 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Intera
+- 🔭 I’m currently working on Intera and Ludicando
 - 🌱 I’m currently learning Python and TypeScript
 - 👯 I’m looking to collaborate on:
   - API for Web WhatsApp RPA
   - Integrations for AirOS/Ubiquiti
   - Integrations for RouterOS/Mikrotik
   - Asterisk
+- 🤔 I'm looking for help with FediVerso
+- 😄 Pronouns: He / Him - Ele / Dele
 <!--
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
