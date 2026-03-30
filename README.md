@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on [Intera](https://github.com/intera-net-br/) and [Ludicando](https://github.com/ludicando/)
-- 🌱 I’m currently learning Python and TypeScript
-- 👯 I’m looking to collaborate on:
-  - API for Web WhatsApp RPA
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on
+  - Linux, Self-Hosting 
   - Integrations for AirOS/Ubiquiti
   - Integrations for RouterOS/Mikrotik
   - Asterisk
@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-
 - ⌨️​ [Avalanche v4](https://github.com/vlkv/avalanche/tree/v4.2), my first custom keyboard.
