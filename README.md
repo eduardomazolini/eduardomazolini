@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Intera and Ludicando
+- 🔭 I’m currently working on [Intera](https://github.com/intera-net-br/) and [Ludicando](https://github.com/ludicando/)
 - 🌱 I’m currently learning Python and TypeScript
 - 👯 I’m looking to collaborate on:
   - API for Web WhatsApp RPA
